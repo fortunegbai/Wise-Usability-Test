@@ -86,11 +86,11 @@ Below are the 16 steps observed in the onboarding journey.
 ## Detailed Findings & Insights
 Below is a summary of usability insights, organized by screen. Each section includes:
 
-- Observed insight → What users did or said
+- Observed insight: What users did or said
 
-- Identified issue → The problem
+- Identified issue: The problem
 
-- Recommendation → How to fix it
+- Recommendation: How to fix it
 
 ### Step 8: What you can do with Wise in Nigeria
 
