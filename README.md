@@ -218,6 +218,6 @@ If you’re a recruiter, PM, or hiring manager who values product thinking, UX, 
 
 ## Resources
 
-- [Download full Google Slides report here](./docs/Wise_Usability_Test_Report.pdf)
-- [Browse all raw onboarding screenshots here](./images/)
+- [View the full deck on Google Slides](./docs/Wise_Usability_Test_Report.pdf)
+- [Browse all the raw onboarding screenshots](./images/)
 
