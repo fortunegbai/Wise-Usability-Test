@@ -48,7 +48,7 @@ Measured by:
 
 - Recording: Sessions recorded solely for analysis (not shared publicly)
 
-**_Ethical Considerations_**:
+**_Ethical considerations_**:
 >**_All participants provided informed consent to be recorded. No personal data or identifying details are shared in this case study._**
 
 ## Participants
