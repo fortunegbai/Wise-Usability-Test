@@ -217,7 +217,6 @@ I’m excited to keep exploring:
 If you’re a recruiter, PM, or hiring manager who values product thinking, UX, customer empathy, and strong analytics, I’d love to connect and share ideas.
 
 ## Resources
-
-- [View the full deck on Google Slides](./docs/Wise_Usability_Test_Report.pdf)
-- [Browse all the raw onboarding screenshots](./images/)
+- [Full onboarding flow](./images/)
+-----------------------------------------------------------------------------------------------------------------------------
 
