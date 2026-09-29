@@ -240,23 +240,23 @@ The 19 still frames used in this study are also in the [images folder](./images)
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="./images/Step1_Find_Install_Open_App__.png" width="200" alt="Google Play listing for the Wise app with an Open button"><br><sub>Step 1. Find and install the app</sub></td>
-<td align="center" width="33%"><img src="./images/Step2_App_Welcome_Get_Started_Screen_.png" width="200" alt="Wise welcome screen with a Get started button"><br><sub>Step 2. Welcome screen</sub></td>
-<td align="center" width="33%"><img src="./images/Step3_Sign-Up_Sign-in_Screen.png" width="200" alt="Wise screen with Log in, Register, and Sign in with Google buttons"><br><sub>Step 3. Sign-up page</sub></td>
+<td align="center" width="33%"><img src="./images/Step1_Find_Install_Open_App%20%20.png" width="200" alt="Google Play listing for the Wise app with an Open button"><br><sub>Step 1. Find and install the app</sub></td>
+<td align="center" width="33%"><img src="./images/Step2_App_Welcome_Screen%20.png" width="200" alt="Wise welcome screen with a Get started button"><br><sub>Step 2. Welcome screen</sub></td>
+<td align="center" width="33%"><img src="./images/Step3_Sign-Up_Page.png" width="200" alt="Wise screen with Log in, Register, and Sign in with Google buttons"><br><sub>Step 3. Sign-up page</sub></td>
 </tr>
 <tr>
 <td align="center" width="33%"><img src="./images/Step4_Enter_Email.png" width="200" alt="Wise screen asking for an email address, with the entry covered"><br><sub>Step 4. Enter email</sub></td>
-<td align="center" width="33%"><img src="./images/Step5__Email_Confirmation.png" width="200" alt="Wise screen asking the user to check their email, with the address covered"><br><sub>Step 5. Email confirmation</sub></td>
-<td align="center" width="33%"><img src="./images/Step6__Select_Account_Type.png" width="200" alt="Wise screen asking whether to open a personal or business account"><br><sub>Step 6. Account type</sub></td>
+<td align="center" width="33%"><img src="./images/Step5_%20Email_Confirmation.png" width="200" alt="Wise screen asking the user to check their email, with the address covered"><br><sub>Step 5. Email confirmation</sub></td>
+<td align="center" width="33%"><img src="./images/Step6_%20Select_Account_Type.png" width="200" alt="Wise screen asking whether to open a personal or business account"><br><sub>Step 6. Account type</sub></td>
 </tr>
 <tr>
 <td align="center" width="33%"><img src="./images/Step7_Country_of_Residence.png" width="200" alt="Wise screen asking where the user lives, with Nigeria selected"><br><sub>Step 7. Country of residence</sub></td>
-<td align="center" width="33%"><img src="./images/Step8_What_You_can_do_with_Wise_in_Nigeria_1.png" width="200" alt="Wise screen titled What you can do with Wise in Nigeria, listing Send money abroad as available and four features under Not available yet"><br><sub>Step 8. What you can do with Wise in Nigeria</sub></td>
+<td align="center" width="33%"><img src="./images/Step8_What_You_can_do_with_Wise_in_Nigeria.png" width="200" alt="Wise screen titled What you can do with Wise in Nigeria, listing Send money abroad as available and four features under Not available yet"><br><sub>Step 8. What you can do with Wise in Nigeria</sub></td>
 <td align="center" width="33%"><img src="./images/Step9_Enter_Verification_Code.png" width="200" alt="Wise screen asking for a six-digit code sent by WhatsApp, with the code and number covered"><br><sub>Step 9. Verification code</sub></td>
 </tr>
 <tr>
 <td align="center" width="33%"><img src="./images/Step10_Create_Password.png" width="200" alt="Wise screen for creating a password"><br><sub>Step 10. Password, account created</sub></td>
-<td align="center" width="33%"><img src="./images/Step11_Set_Up_Biometrics_Passcode.png" width="200" alt="Wise screen offering biometrics or a passcode"><br><sub>Step 11. Biometrics or passcode</sub></td>
+<td align="center" width="33%"><img src="./images/Step11_Set_Up%20Biometrics_Passcode.png" width="200" alt="Wise screen offering biometrics or a passcode"><br><sub>Step 11. Biometrics or passcode</sub></td>
 <td align="center" width="33%"><img src="./images/Step12_Fill_Personal_Information.png" width="200" alt="Wise form for legal name, date of birth, and phone number, with personal details covered"><br><sub>Step 12. Personal details</sub></td>
 </tr>
 <tr>
@@ -278,6 +278,5 @@ The 19 still frames used in this study are also in the [images folder](./images)
 
 </details>
 
----
-
+                                 
 *Questions or feedback on this analysis are welcome via [LinkedIn](https://www.linkedin.com/in/fortuneegbai/).*
